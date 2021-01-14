@@ -4,6 +4,7 @@ import Footer from '../Footer';
 
 
 
+
 function Home() {
   return (
     <>
@@ -26,7 +27,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <Footer />
+      <Footer/>
     </>
   )
 }
