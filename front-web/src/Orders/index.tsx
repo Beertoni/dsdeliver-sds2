@@ -1,5 +1,5 @@
 import './styles.css';
-import { toast, ToastContainer } from 'react-toastify';
+import { toast } from 'react-toastify';
 import StepsHeader from './StepsHeader';
 import ProductsList from './ProductsList';
 import { useEffect, useState } from 'react';
