@@ -83,7 +83,6 @@ function OrderLocation({ onChangeLocation }: Props) {
                         </Popup>
                     </Marker>
                 </MapContainer>
-)
 
             </div>
         </div>
